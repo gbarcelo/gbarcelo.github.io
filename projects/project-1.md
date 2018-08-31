@@ -10,11 +10,10 @@ labels:
   - Machine Learning
   - Reinforcement Learning
   - Arduino
-  - C++
+  - C/C++
   - Python
-summary: Reinforcement Learning with Microcontroller Slave Agent
-  - Proposed, designed, and developed a quadrupedal robot that learns to walk in a direction using a neural network observing leg states/actions and distance measurements
-  - Applied Arduino technologies, Bluetooth, TensorFlow, Python, and C/C++
+  - TensorFlow
+summary: Proposed, designed, and developed a quadrupedal robot that learns to walk in a direction using a neural network observing leg states/actions and distance measurements
 ---
 The project team consisted of myself and my partner Ryan Ganiron. My roles in the project were the following:
 
