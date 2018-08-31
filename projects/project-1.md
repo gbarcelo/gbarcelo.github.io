@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/proj1_1.jpg
+image: images/proj1_1.png
 title: Reinforcement Learning with Arduino Slave Agent
 permalink: projects/rl_arduino
 # All dates must be YYYY-MM-DD format!
