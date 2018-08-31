@@ -13,7 +13,6 @@ labels:
   - Computer Vision
 summary: An ongoing project aiming to draw useful information from images using computer vision and unmanned aerial vehicles.
 ---
-
 Manual inspection of high-risk vegetation in remote areas to inspect high voltage electrical components is costly and dangerous. Our team's goal on this project is to substitute manual inspections either on-field or helicopter with drone co-processing.
 
 This project is still in its early stages. In the semester of Spring '18, I performed research and experimentation on computer vision models with a team to find an accessible but powerful model. For the proof-of-concept, we chose to use the Faster R-CNN Resnet-50 pretrained model to retrain on a one-class dataset of “plant parts”. The dataset came from ImageNet and provided roughly 300 annotated images for training.
