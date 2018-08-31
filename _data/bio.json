@@ -1,39 +1,39 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Glen Barcelo",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://gbarcelo.github.io/images/icsprofile_1.png",
+    "email": "gbarcelo@hawaii.edu",
+    "phone": "808-450-8730",
+    "website": "https://gbarcelo.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii. I expect to graduate in Fall, 2019.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96797",
+      "city": "Waipahu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "gbarcelo",
+        "url": "http://github.com/gbarcelo"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/glen-barcelo-49b9a316b"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "",
+        "url": ""
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -41,12 +41,16 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Arduino"
       ]
     },
     {
-      "name": "data mining",
+      "name": "software engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "machine learning",
       "keywords": [
       ]
     },
