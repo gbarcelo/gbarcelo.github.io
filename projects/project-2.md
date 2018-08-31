@@ -1,25 +1,21 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/proj2_1.jpeg
+title: UAS: Image Processing Using TensorFlow
+permalink: projects/uas
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-05-13
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Drone
+  - Machine Learning
+  - TensorFlow
+  - Computer Vision
+summary: An ongoing project aiming to draw useful information from images using computer vision and unmanned aerial vehicles.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+Manual inspection of high-risk vegetation in remote areas to inspect high voltage electrical components is costly and dangerous. Our team's goal on this project is to substitute manual inspections either on-field or helicopter with drone co-processing.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+This project is still in its early stages. In the semester of Spring '18, I performed research and experimentation on computer vision models with a team to find an accessible but powerful model. For the proof-of-concept, we chose to use the Faster R-CNN Resnet-50 pretrained model to retrain on a one-class dataset of “plant parts”. The dataset came from ImageNet and provided roughly 300 annotated images for training.
+	The TensorFlow Object Detection API was developed by Google to enable experimentation using different parts of successful object detection/classification models with others. The Faster R-CNN is a method of bounding box prediction based on some extracted features, while Resnet is one state-of-the-art feature extractor made freely available. This combination was chosen for the proof-of-concept because of its average speed and average precision, versus other combinations of models with either slower speed and higher precision or faster speed and lower precision.
+	Training must be done from scratch and takes many hours to get results. The model we trained was frozen after approximately 14,000 iterations, which took over 72 hours to train. Other iterations were tested before and after this checkpoint, but through trial and error this version was chosen for best performance. The results showed promise, however due to the differences between the training dataset and the test images, it was clear that we would need to build our own dataset from scratch to train a reliable model. We are currently in the process of this task as of Fall '18.
