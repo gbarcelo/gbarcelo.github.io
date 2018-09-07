@@ -27,3 +27,5 @@ For contrast, here is an example of a bad question:
 <img class="ui image" src="../images/better-q-a+fig1.jpg">
 
 Here a picture is provided because questions which are downvoted enough usually indicate a question that shouldn't be posted on Stack Overflow. Posters are given some amount of time to edit their questions to better fit the Stack Overflow guidelines before being removed.
+
+The bad characteristics of this question highlight the the good in the previous question. First of all, the warning provided by Stack Overflow moderators indicates that the question is not precise about the problem nor explicit about the question.
