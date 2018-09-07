@@ -24,5 +24,5 @@ Starting with the good, here is [a question posted by GManNickG](https://stackov
 All of these characteristics contributed to creating an excellent question, and it was rewarded with numerous high-quality answers and upvotes. Such answers are dense with information and require a considerable amount of time to make. 
 
 For contrast, here is an example of a bad question:
-<img class="ui medium" src="../images/better-q-a+fig1.jpg">
+<img class="ui centered medium image" src="../images/better-q-a+fig1.jpg">
 Here a picture is provided because questions which are downvoted enough usually indicate a question that shouldn't be posted on Stack Overflow. Posters are given some amount of time to edit their questions to better fit the Stack Overflow guidelines before being removed.
