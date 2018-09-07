@@ -25,4 +25,5 @@ All of these characteristics contributed to creating an excellent question, and 
 
 For contrast, here is an example of a bad question:
 <img class="ui centered medium image" src="../images/better-q-a+fig1.jpg">
+
 Here a picture is provided because questions which are downvoted enough usually indicate a question that shouldn't be posted on Stack Overflow. Posters are given some amount of time to edit their questions to better fit the Stack Overflow guidelines before being removed.
