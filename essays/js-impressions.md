@@ -11,8 +11,6 @@ labels:
   - JavaScript
 ---
 
-# JavaScript Impressions
-
 When I first heard of JavaScript, I didn't give it much thought. I was already studying C/C++, Java, and Python at the time, with my eye on trying out C# next. I liked dealing more with systems and back-end work, where it was important to analyze a situation and come up with a proper architecture. A quick Google told me it was used in HTML. I hated working web—HTML and CSS were beyond me and I just disliked looking at the format and syntax; it was ugly to me. I didn't care for spending hours perfecting how a website looked when I could instead spend hours trying to get logic and control on some I/O to work. After reading about JavaScript, I quickly dismissed it and expected never to return until I had no other option but to do web-work myself.
 
 That was then. Now, I've been exposed to it one of my courses and my perception has changed. Doing work in Python after long stints in C made me appreciate the simplicity and ease of programming in higher-level languages. And after working in C++ and Java, Python was a breath of fresh air in terms of weakly typed objects and just sheer ease of accomplishing simple tasks. These traits came to mind when I started tackling my first few problems in JavaScript—weakly typed variables and a simple syntax made it easy to take my first steps. Okay, so maybe JavaScript isn't too bad.
