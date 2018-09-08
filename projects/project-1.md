@@ -28,6 +28,7 @@ The master/slave serial protocol script was written by me in Python and acted as
 The Arduino microcontroller script was written by Ryan Ganiron in C initially, but due to troubleshooting and design iterations was heavily edited by me. This script handled moving the servos (legs) of the robot with a time delay, taking smoothed distance readings (an average of 10), and maintaining its own Bluetooth module and communications.
 
 <img class="ui medium right floated rounded image" src="../images/proj1_fig1.jpg">
+
 Hardware/Mechanical Integrator:
         	I took the hardware circuit and materials implemented and provided by Ganiron and designed and implemented a basic quadrupedal unit to support it. The chassis and legs were made of balsa wood, wire, and glue, and the hardware components were secured using zip ties. The wood and zip ties were used in order to facilitate dexterity in the face of any possible required design changes. Wire and glue were used to strengthen critical or structurally weak areas of the unit.
 
