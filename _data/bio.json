@@ -125,8 +125,8 @@
       "company": "",
       "position": "Sole Designer",
       "website": "",
-      "startDate": "2017-06-16",
-      "endDate": "Present",
+      "startDate": "June 2017",
+      "endDate": "June 2018",
       "summary": "Personal Project: Garage Door Wireless Control (2017)",
       "highlights": [
         "Designed and implemented a wireless control for a garage door motor using information primarily from open source designs and Arduino tutorials. Major components include: HC-06 Bluetooth Module, Adafruit Trinket (Arduino), Relay.",
