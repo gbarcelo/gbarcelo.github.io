@@ -92,7 +92,7 @@
       "website": "",
       "startDate": "",
       "endDate": "",
-      "summary": "ee 396 project ",
+      "summary": "EE 396 project ",
       "highlights": [
         "Proposed, researched, and implemented object recognition models that were trained using ad-hoc data to localize and classify haole koa parts and general plant parts",
         "Applied Python and TensorFlow in Linux"
@@ -104,7 +104,7 @@
       "website": "",
       "startDate": "",
       "endDate": "",
-      "summary": "ee 296 project",
+      "summary": "EE 296 project",
       "highlights": [
         "Proposed, designed, and developed a quadrupedal robot that learns to walk in a direction using a neural network observing leg states/actions and distance measurements",
         "Applied Arduino technologies, Bluetooth, TensorFlow, Python, and C/C++"
