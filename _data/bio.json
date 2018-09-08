@@ -116,7 +116,7 @@
       "website": "",
       "startDate": "2017-06-16",
       "endDate": "2017-06-23",
-      "summary": "Community Coding Challenge 2017",
+      "summary": "Community Coding Challenge",
       "highlights": [
         "Designed and implemented an Android App with the safety theme. User presses a button when in a possibly dangerous environment (e.g. walking to a vehicle alone at night). App uses GPS to create a trail of locations with time stamps and, upon unintended release of the button, will send a text to an emergency contact with a canned message and link to Google Maps with location. Brainstormed, designed, and implemented by a team of three in seven days (duration of competition). Second place prize."
       ]
@@ -127,7 +127,7 @@
       "website": "",
       "startDate": "2017-06-15",
       "endDate": "2018-06-15",
-      "summary": "Personal Project: Garage Door Wireless Control (2017)",
+      "summary": "Personal Project: Garage Door Wireless Control",
       "highlights": [
         "Designed and implemented a wireless control for a garage door motor using information primarily from open source designs and Arduino tutorials. Major components include: HC-06 Bluetooth Module, Adafruit Trinket (Arduino), Relay.",
         "Arduino accepts input through an Android app at the press of a button."
