@@ -90,8 +90,8 @@
       "company": "",
       "position": "Team Member, Researcher",
       "website": "",
-      "startDate": "January 2018",
-      "endDate": "May 2018",
+      "startDate": "2018-01-15",
+      "endDate": "2018-05-15",
       "summary": "EE 396 project ",
       "highlights": [
         "Proposed, researched, and implemented object recognition models that were trained using ad-hoc data to localize and classify haole koa parts and general plant parts",
@@ -102,8 +102,8 @@
       "company": "",
       "position": "Project/Design Lead, Software Lead, Hardware/Mechanical Integrator",
       "website": "",
-      "startDate": "July 2017",
-      "endDate": "December 2017",
+      "startDate": "2017-08-15",
+      "endDate": "2017-12-15",
       "summary": "EE 296 project",
       "highlights": [
         "Proposed, designed, and developed a quadrupedal robot that learns to walk in a direction using a neural network observing leg states/actions and distance measurements",
@@ -125,8 +125,8 @@
       "company": "",
       "position": "Sole Designer",
       "website": "",
-      "startDate": "June 2017",
-      "endDate": "June 2018",
+      "startDate": "2017-06-15",
+      "endDate": "2018-06-15",
       "summary": "Personal Project: Garage Door Wireless Control (2017)",
       "highlights": [
         "Designed and implemented a wireless control for a garage door motor using information primarily from open source designs and Arduino tutorials. Major components include: HC-06 Bluetooth Module, Adafruit Trinket (Arduino), Relay.",
