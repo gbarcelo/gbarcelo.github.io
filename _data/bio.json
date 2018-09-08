@@ -90,8 +90,8 @@
       "company": "",
       "position": "Team Member, Researcher",
       "website": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "January 2018",
+      "endDate": "May 2018",
       "summary": "EE 396 project ",
       "highlights": [
         "Proposed, researched, and implemented object recognition models that were trained using ad-hoc data to localize and classify haole koa parts and general plant parts",
@@ -102,8 +102,8 @@
       "company": "",
       "position": "Project/Design Lead, Software Lead, Hardware/Mechanical Integrator",
       "website": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "July 2017",
+      "endDate": "December 2017",
       "summary": "EE 296 project",
       "highlights": [
         "Proposed, designed, and developed a quadrupedal robot that learns to walk in a direction using a neural network observing leg states/actions and distance measurements",
@@ -114,8 +114,8 @@
       "company": "",
       "position": "Team Member, Programming and UI",
       "website": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2017-06-16",
+      "endDate": "2017-06-23",
       "summary": "Community Coding Challenge 2017",
       "highlights": [
         "Designed and implemented an Android App with the safety theme. User presses a button when in a possibly dangerous environment (e.g. walking to a vehicle alone at night). App uses GPS to create a trail of locations with time stamps and, upon unintended release of the button, will send a text to an emergency contact with a canned message and link to Google Maps with location. Brainstormed, designed, and implemented by a team of three in seven days (duration of competition). Second place prize."
@@ -125,8 +125,8 @@
       "company": "",
       "position": "Sole Designer",
       "website": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2017-06-16",
+      "endDate": "Present",
       "summary": "Personal Project: Garage Door Wireless Control (2017)",
       "highlights": [
         "Designed and implemented a wireless control for a garage door motor using information primarily from open source designs and Arduino tutorials. Major components include: HC-06 Bluetooth Module, Adafruit Trinket (Arduino), Relay.",
