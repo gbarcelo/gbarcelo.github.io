@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-image: images/edisonlightbulb.jpeg
+# image: images/edisonlightbulb.jpeg
 title: 'Coding Standards: Lightbulbs in Programming'
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-20
@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Coding Standards
 ---
-Thomas Edison is often quoted for saying something like, "I have not failed. I've just found 10,000 ways not to make a lightbulb." It is a quote that makes you re-assess your ideas on failure and success, and one of many that seek to inspire people to persevere in the face of great hardship. And in our journeys as programmers, I'm sure we've all found much more than 10,000 ways not to solve a problem!
+<img class="ui medium right floated rounded image" src="../images/edisonlightbulb.jpeg">Thomas Edison is often quoted for saying something like, "I have not failed. I've just found 10,000 ways not to make a lightbulb." It is a quote that makes you re-assess your ideas on failure and success, and one of many that seek to inspire people to persevere in the face of great hardship. And in our journeys as programmers, I'm sure we've all found much more than 10,000 ways not to solve a problem!
 
 Besides trivial things like syntax errors and typos, the first hurdle people face in writing code is usually the algorithm. Countless functions were born at the union of, "How do I return *that*?" and a thinking emoji. With enough experience and programming knowledge, solving many problems can get pretty fast—not to mention the countless ways of solving such problems. But the flexibility that programming languages give us to solve problems also provides a vast solution space that is not always easy to navigate when we look at *someone else's* code. While it is impossible to truly step into the mind of someone else, there is something that can help minimize the infinitely-many ways to write code: coding standards.
 
