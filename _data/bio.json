@@ -88,14 +88,28 @@
   "work": [
     {
       "company": "",
-      "position": "Team Member, Researcher",
+      "position": "Team Leader, Hardware Designer, Programmer",
       "website": "",
       "startDate": "2018-01-15",
-      "endDate": "2018-05-15",
-      "summary": "EE 396 project ",
+      "endDate": "2018-11-15",
+      "summary": "JavaScript Webapp and IoT smartbin",
       "highlights": [
-        "Proposed, researched, and implemented object recognition models that were trained using ad-hoc data to localize and classify haole koa parts and general plant parts",
-        "Applied Python and TensorFlow in Linux"
+        "Designed and implemented a Wi-Fi-enabled waste bin that sends weight and item count on button press",
+        "Managed project using a simple form of Agile development, making use of GitHub Project Boards, Milestones, and Issues to track tasks and distribute work efficiently",
+        "Applied Meteor, Semantic UI React, and MongoDB",
+        "Components used: NodeMCU WiFi Development Board, proximity sensor, load cell sensors"
+      ]
+    },
+    {
+      "company": "",
+      "position": "Team Member, Main Programmer",
+      "website": "",
+      "startDate": "2018-01-15",
+      "endDate": "2018-12-15",
+      "summary": "EE 396/496 project ",
+      "highlights": [
+        "Proposed and implemented object recognition models that were trained using ad-hoc data to localize and classify haole koa (white lead tree) parts and general plant parts",
+        "Applied Docker, Python, and TensorFlow’s Object Detection API in Linux"
       ]
     },
     {
@@ -129,8 +143,10 @@
       "endDate": "2018-06-15",
       "summary": "Personal Project: Garage Door Wireless Control",
       "highlights": [
-        "Designed and implemented a wireless control for a garage door motor using information primarily from open source designs and Arduino tutorials. Major components include: HC-06 Bluetooth Module, Adafruit Trinket (Arduino), Relay.",
-        "Arduino accepts input through an Android app at the press of a button."
+        "Designed and implemented a wireless controller for a garage door motor using information primarily from open source designs and Arduino tutorials (2017)",
+        "Developed an Android app to control the garage door motor via Bluetooth (2018)",
+        "Components used: HC-06 Bluetooth Module, Adafruit Trinket (Arduino), Relay",
+        "Applied Arduino technologies, C, and Java via Android Studio"
       ]
     }
   ],
