@@ -92,11 +92,11 @@
       "website": "",
       "startDate": "2018-01-15",
       "endDate": "2018-11-15",
-      "summary": "JavaScript Webapp and IoT smartbin",
+      "summary": "ICS 314 Project: Exploring a JavaScript Web Framework and IoT Applications",
       "highlights": [
         "Designed and implemented a Wi-Fi-enabled waste bin that sends weight and item count on button press",
         "Managed project using a simple form of Agile development, making use of GitHub Project Boards, Milestones, and Issues to track tasks and distribute work efficiently",
-        "Applied Meteor, Semantic UI React, and MongoDB",
+        "Applied Meteor tech stack, especially Semantic UI React and MongoDB",
         "Components used: NodeMCU WiFi Development Board, proximity sensor, load cell sensors"
       ]
     },
@@ -106,7 +106,7 @@
       "website": "",
       "startDate": "2018-01-15",
       "endDate": "2018-12-15",
-      "summary": "EE 396/496 project ",
+      "summary": "EE 396/496 project: Machine Learning Framework Exploration and Image Processing Applications",
       "highlights": [
         "Proposed and implemented object recognition models that were trained using ad-hoc data to localize and classify haole koa (white lead tree) parts and general plant parts",
         "Applied Docker, Python, and TensorFlow’s Object Detection API in Linux"
@@ -118,9 +118,9 @@
       "website": "",
       "startDate": "2017-08-15",
       "endDate": "2017-12-15",
-      "summary": "EE 296 project",
+      "summary": "EE 296 project: Exploring Machine Learning and Microcontrollers",
       "highlights": [
-        "Proposed, designed, and developed a quadrupedal robot that learns to walk in a direction using a neural network observing leg states/actions and distance measurements",
+        "Proposed, designed, and developed a quadrupedal robot slave agent that learns to walk in one direction using a neural network master device observing leg states/actions and distance measurements",
         "Applied Arduino technologies, Bluetooth, TensorFlow, Python, and C/C++"
       ]
     },
