@@ -96,7 +96,7 @@
       "highlights": [
         "Designed and implemented a Wi-Fi-enabled waste bin that sends weight and item count on button press",
         "Managed project using a simple form of Agile development, making use of GitHub Project Boards, Milestones, and Issues to track tasks and distribute work efficiently",
-        "Applied Meteor tech stack, especially React and MongoDB",
+        "Applied the Meteor, React, and MongoDB stack",
         "Components used: NodeMCU WiFi Development Board, proximity sensor, load cell sensors"
       ]
     },
