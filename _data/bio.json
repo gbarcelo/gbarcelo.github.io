@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Glen Barcelo",
-    "label": "Student",
-    "picture": "https://gbarcelo.github.io/images/icsprofile_1.JPG",
+    "label": "Graduate",
+    "picture": "https://gbarcelo.github.io/images/icsprofile_2.jpg",
     "email": "gbarcelo@hawaii.edu",
     "phone": "",
     "website": "https://gbarcelo.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii. I expect to graduate in Fall, 2019.",
+    "summary": "A passionate and dedicated computer engineering graduate that fell in love with software engineering. Explored programming in web, mobile, machine learning, and hardware to gain insights about development. Fast learner that enjoys delving into new technologies and being part of a cohesive and motivated team.",
     "location": {
       "address": "",
       "postalCode": "96797",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "salsa dancing",
       "keywords": [
       ]
     }
@@ -55,12 +55,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Javascript",
+        "Python 3",
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Python",
-        "Android"
+        "SQL"
       ]
     },
     {
@@ -69,6 +69,9 @@
       "keywords": [
         "Ubuntu",
         "Git/GitHub",
+        "IntelliJ IDEA",
+        "Visual Studio Code",
+        "bash",
         "g++"
       ]
     }
@@ -76,10 +79,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2019)",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
-      "startDate": "2015-01-12",
-      "endDate": "Present",
+      "startDate": "2014",
+      "endDate": "2020",
       "gpa": "",
       "courses": [
       ]
@@ -88,51 +91,40 @@
   "work": [
     {
       "company": "",
-      "position": "Team Leader, Hardware Designer, Programmer",
+      "position": "Software Developer",
       "website": "",
-      "startDate": "2018-01-15",
-      "endDate": "2018-11-15",
-      "summary": "ICS 314 Project: Exploring a JavaScript Web Framework and IoT Applications",
+      "startDate": "2019-05-15",
+      "endDate": "2019-08-15",
+      "summary": "University of Hawai’i at Mānoa, Department of Information and Computer Sciences",
       "highlights": [
-        "Designed and implemented a Wi-Fi-enabled waste bin that sends weight and item count on button press",
-        "Managed project using a simple form of Agile development, making use of GitHub Project Boards, Milestones, and Issues to track tasks and distribute work efficiently",
-        "Applied the Meteor, React, and MongoDB stack",
-        "Components used: NodeMCU WiFi Development Board, proximity sensor, load cell sensors"
+        "Designed and developed responsive, interactive web components using TypeScript and HTML/CSS",
+        "Analyzed source code and database schemas to migrate legacy features using React, Meteor, and MongoDB",
+        "Worked on and managed codebase with Agile development team using Git, GitHub, and ESLint",
       ]
     },
     {
       "company": "",
-      "position": "Team Member, Main Programmer",
+      "position": "Team Leader, Hardware Designer, Programmer",
+      "website": "",
+      "startDate": "2018-10-20",
+      "endDate": "2018-11-10",
+      "summary": "Hack-a-thon: Exploring a JavaScript Web Framework and IoT Applications, 8th Place",
+      "highlights": [
+        "Managed project using Agile development and GitHub Projects to track tasks and distribute work efficiently",
+        "Designed and implemented a Wi-Fi-enabled container using a NodeMCU WiFi Development Board, proximity sensor, and load cell sensors",
+        "Built appealing, functional website components using React, Meteor, and MongoDB",
+      ]
+    },
+    {
+      "company": "",
+      "position": "Team Member, Programmer",
       "website": "",
       "startDate": "2018-01-15",
       "endDate": "2018-12-15",
-      "summary": "EE 396/496 project: Machine Learning Framework Exploration and Image Processing Applications",
+      "summary": "Machine Learning Framework Exploration and Image Processing Applications",
       "highlights": [
-        "Proposed and implemented object recognition models that were trained using ad-hoc data to localize and classify haole koa (white lead tree) parts and general plant parts",
-        "Applied Docker, Python, and TensorFlow’s Object Detection API in Linux"
-      ]
-    },
-    {
-      "company": "",
-      "position": "Project/Design Lead, Software Lead, Hardware/Mechanical Integrator",
-      "website": "",
-      "startDate": "2017-08-15",
-      "endDate": "2017-12-15",
-      "summary": "EE 296 project: Exploring Machine Learning and Microcontrollers",
-      "highlights": [
-        "Proposed, designed, and developed a quadrupedal robot slave agent that learns to walk in one direction using a neural network master device observing leg states/actions and distance measurements",
-        "Applied Arduino technologies, Bluetooth, TensorFlow, Python, and C/C++"
-      ]
-    },
-    {
-      "company": "",
-      "position": "Team Member, Programming and UI",
-      "website": "",
-      "startDate": "2017-06-16",
-      "endDate": "2017-06-23",
-      "summary": "Community Coding Challenge",
-      "highlights": [
-        "Designed and implemented an Android App with the safety theme. User presses a button when in a possibly dangerous environment (e.g. walking to a vehicle alone at night). App uses GPS to create a trail of locations with time stamps and, upon unintended release of the button, will send a text to an emergency contact with a canned message and link to Google Maps with location. Brainstormed, designed, and implemented by a team of three in seven days (duration of competition). Second place prize."
+        "Proposed and implemented object-recognition models that can identify a variety of plant species using Python and TensorFlow’s Object Detection API in Linux",
+        "Managed code and environment using Docker, GitHub, and Jupyter"
       ]
     },
     {
@@ -141,15 +133,25 @@
       "website": "",
       "startDate": "2017-06-15",
       "endDate": "2018-06-15",
-      "summary": "Personal Project: Garage Door Wireless Control",
+      "summary": "Personal Summer Projects: Garage Door Wireless Control",
       "highlights": [
-        "Designed and implemented a wireless controller for a garage door motor using information primarily from open source designs and Arduino tutorials (2017)",
-        "Developed an Android app to control the garage door motor via Bluetooth (2018)",
-        "Components used: HC-06 Bluetooth Module, Adafruit Trinket (Arduino), Relay",
-        "Applied Arduino technologies, C, and Java via Android Studio"
+        "Designed and implemented a simple wireless controller for a garage door motor using an HC-06 Bluetooth Module, Adafruit Trinket (Arduino), and relay (2017)",
+        "Developed an Android app to control the garage door motor via Bluetooth using Arduino technologies, C, and Java (2018)",
+      ]
+    },
+    {
+      "company": "",
+      "position": "Team Member, Programmer",
+      "website": "",
+      "startDate": "2017-06-16",
+      "endDate": "2017-06-23",
+      "summary": "Hack-a-thon: Exploring Java, Android, and Mobile Development, 2nd Place",
+      "highlights": [
+        "Learned Java and Android framework basics to implement competition submission in one week",
+        "Managed team learning efforts, workflow, and spirit to meet deadline",
       ]
     }
-  ],
+  ]
   "references": [
     {
       "name": "Available upon request",
